@@ -1,0 +1,1 @@
+audio_play_sound_at(snd_boost_loot, x, y, 0, global.fallof_ref_dist, global.fallof_max_dist, 1, false, 1);

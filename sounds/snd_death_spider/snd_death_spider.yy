@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_death_spider",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.958821,
+  "name":"snd_death_spider",
+  "parent":{
+    "name":"snd_death",
+    "path":"folders/Sounds/snd_death.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_death_spider.wav",
+  "type":0,
+  "volume":0.7,
+}

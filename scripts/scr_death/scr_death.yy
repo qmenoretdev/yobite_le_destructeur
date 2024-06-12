@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_death",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_death",
+  "parent":{
+    "name":"death",
+    "path":"folders/Scripts/death.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_explosion",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":7.105306,
+  "name":"snd_explosion",
+  "parent":{
+    "name":"snd_hit",
+    "path":"folders/Sounds/snd_hit.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_explosion",
+  "type":0,
+  "volume":0.12,
+}

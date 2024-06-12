@@ -1,0 +1,42 @@
+#macro PLAYER_BASIC_GEORGETTE 0
+#macro PLAYER_360_GEORGETTE 1
+#macro PLAYER_MANON_NO_JUTSU 2
+#macro PLAYER_FLOC 3
+#macro PLAYER_DICK_ARROW 4
+#macro PLAYER_ORBITEALE 4
+#macro PLAYER_REGEN 5
+#macro PLAYER_BOOST 6
+
+#macro ACTION_PACIFIST 10
+#macro ACTION_CAC_ATTACK 11
+#macro ACTION_DISTANCE_ATTACK 12
+#macro ACTION_HIDE 13
+#macro ACTION_SHOW 14
+#macro ACTION_TOUCH 15
+#macro ACTION_SPECIAL_ATTACK 16
+
+// Facteurs
+#macro SLOW_FACTOR 3
+
+// Effets
+#macro EFFECT_SLOW 0
+#macro EFFECT_FREEZE 1
+#macro EFFECT_FILLING 2
+#macro EFFECT_EXPLOSION_FULL 3
+#macro EFFECT_ENERGY 4
+#macro EFFECT_FOAMING 5
+#macro EFFECT_VIDE_COUILLE 6
+#macro EFFECT_BURN 7
+#macro EFFECT_PUT_OUT_FIRE 8
+
+// layers
+#macro LAYER_CONTROLLER "Instances_controller"
+#macro LAYER_FRONT "Instances_front"
+#macro LAYER_YOBITE "Instances_yobite"
+#macro LAYER_MOB "Instances_mob"
+#macro LAYER_BACK "Instances_back"
+#macro LAYER_WALL "Instances_wall"
+
+// Objectifs
+#macro OBJECTIF_TOUCH_END_LEVEL 0
+#macro OBJECTIF_KILL_ALL 1

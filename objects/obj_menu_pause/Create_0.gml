@@ -1,0 +1,11 @@
+var _button_size = 0.75;
+var _x_decalage = 90;
+button_continue = instance_create_depth(x-_x_decalage,y-160,depth-1,obj_button);
+button_continue.text = "Continuer";
+button_continue.image_xscale = _button_size;
+button_continue.image_yscale = _button_size;
+button_main_menu = instance_create_depth(x-_x_decalage,y+80,depth-1,obj_button);
+button_main_menu.text = "Menu Principal";
+button_main_menu.room_togo = rm_menu_principal;
+button_main_menu.image_xscale = _button_size;
+button_main_menu.image_yscale = _button_size;

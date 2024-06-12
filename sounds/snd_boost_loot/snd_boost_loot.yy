@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_boost_loot",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.401723,
+  "name":"snd_boost_loot",
+  "parent":{
+    "name":"snd_boost",
+    "path":"folders/Sounds/snd_boost.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_boost_loot.wav",
+  "type":0,
+  "volume":0.46,
+}

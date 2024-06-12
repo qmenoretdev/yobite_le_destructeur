@@ -1,0 +1,12 @@
+damage = 10;
+player_side = false;
+invinc_list = [];
+snd = undefined;
+snd_create = undefined;
+push_power = 6;
+push_timer_max = 3;
+push_timer = push_timer_max;
+spr_root = "";
+effect = [];
+sender = undefined;
+spr_hit = spr_blood;

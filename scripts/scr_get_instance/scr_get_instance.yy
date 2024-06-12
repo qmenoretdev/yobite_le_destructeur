@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_get_instance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_instance",
+  "parent":{
+    "name":"util",
+    "path":"folders/Scripts/util.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

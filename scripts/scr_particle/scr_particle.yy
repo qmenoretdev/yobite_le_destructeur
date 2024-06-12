@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_particle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_particle",
+  "parent":{
+    "name":"effect",
+    "path":"folders/Scripts/effect.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
