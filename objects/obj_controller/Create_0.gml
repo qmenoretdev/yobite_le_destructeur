@@ -29,11 +29,17 @@ global.level_end = false;
 switch(room) {
 	case rm_level_1:
 		global.objectifs = [OBJECTIF_TOUCH_END_LEVEL, OBJECTIF_KILL_ALL]
+		audio_play_sound(snd_level_1, 10, true);
+		break;
+	case rm_level_2:
+		audio_play_sound(snd_level_2, 10, true);
 		break;
 	case rm_level_3:
 		global.objectifs = [OBJECTIF_KILL_ALL]
+		audio_play_sound(snd_level_3, 10, true);
 		break;
 	case rm_level_4:
 		global.objectifs = [OBJECTIF_KILL_ALL]
+		audio_play_sound(snd_boss_fight, 10, true);
 		break;
 }
